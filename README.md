@@ -14,6 +14,9 @@ Kedua yaitu membuat form peminjaman dengan memilih nama yang sudah terdaftar tad
 ### Form Kembali
 Ketiga yaitu membuat form pengembalian daripada buku yang telah dipinjam pada form-peminjaman , form kembali ini kita memilih buku apa yang telah kita pinjam kemudian mengembalikanya dan mengubah status dipinjam menjadi ready dan menormalkan jumlah stok kembali.untuk proses daripada form ini dipanggil dari file **proses kembali** yang berisi back end dari form ini.
 ![Alt Text](https://github.com/adam033/Modul-3-4/blob/master/Screenshot%20(97).png)
+### Detail
+Keempat yaitu membuat form yang berisi detail daripada transaksi yang telah user lakukan yaitu dengan menampilkan berupa tanggal pinjam tangggal jatuh tempo dan juga judul buku serta nama anggota yang telah melakukan transaksi peminjaman.
+
 
 
 
